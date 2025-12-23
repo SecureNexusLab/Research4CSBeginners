@@ -17,6 +17,13 @@
 
 ## 贡献
 
+感谢以下师傅的贡献：
+- [JunJunTvT](https://github.com/JunJunTnT)
+- [GuoXBQ-Q](https://github.com/GuoXBQ-Q)
+- [Yuanbing-oy](https://github.com/Yuanbing-oy)
+- raindrop
+- 留白
+
 欢迎对本指南提出建议和改进意见。如果您有任何问题或建议，请通过以下方式联系我们：
 
 - 提交 Issue
