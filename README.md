@@ -18,6 +18,7 @@
 ## 贡献
 
 感谢以下师傅的贡献：
+- [i3eg1nner](https://github.com/I3eg1nner)
 - [JunJunTvT](https://github.com/JunJunTnT)
 - [GuoXBQ-Q](https://github.com/GuoXBQ-Q)
 - [Yuanbing-oy](https://github.com/Yuanbing-oy)
