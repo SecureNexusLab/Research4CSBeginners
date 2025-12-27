@@ -4,15 +4,15 @@ This guide is collaboratively written by several members of SecureNexusLab. Rese
 
 ## Table of Contents
 
-- [1. Literature Review](./en/1.文献调研.md)
-- [2. Paper Reading](./en/2.论文阅读.md)
-- [3. Paper Reproduction](./en/3.论文复现.md)
-- [4. Paper Idea](./en/4.论文Idea.md)
-- [5. Experimental Environment](./en/5.实验环境.md)
-- [6. Paper Writing and Polishing](./en/6.论文写作与润色.md)
-- [7. Figure Drawing](./en/7.论文绘图.md)
-- [8. Research Collaboration](./en/8.科研协作.md)
-- [9. Paper Submission](./en/9.论文投稿.md)
+- [1. Literature Review](./en/1.Literature_Review.md)
+- [2. Paper Reading](./en/2.Paper_Reading.md)
+- [3. Paper Reproduction](./en/3.Paper_Reproduction.md)
+- [4. Paper Idea](./en/4.Paper_Idea.md)
+- [5. Experimental Environment](./en/5.Experimental_Environment.md)
+- [6. Paper Writing and Polishing](./en/6.Paper_Writing_and_Polishing.md)
+- [7. Figure Drawing](./en/7.Paper_Illustration.md)
+- [8. Research Collaboration](./en/8.Research_Collaboration.md)
+- [9. Paper Submission](./en/9.Paper_Submission.md)
 
 ## Contributors
 
