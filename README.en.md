@@ -1,6 +1,6 @@
-# Handbook for Computer Science Graduate Beginners
+# Handbook for Computer Science Graduate Beginners in LLM
 
-This guide is collaboratively written by several members of SecureNexusLab. Research in computer science involves numerous details, and the purpose of this handbook is to provide an introductory reference for new graduate students in the field. The structure follows the typical process of producing a research paper, including literature review, paper reading, paper reproduction, idea development, experimental environment setup, paper writing and polishing, figure drawing, paper submission, and research collaboration. Contributors come from Shandong University, Zhejiang University, Beijing University of Posts and Telecommunications, Xidian University, and Jiangxi Normal University, with valuable suggestions from many mentors. We express our gratitude to all contributors and welcome further feedback and suggestions from readers.
+This guide is collaboratively written by several members of SecureNexusLab. Research in computer science involves numerous details, and the purpose of this handbook is to provide an introductory reference for new graduate students in the field. The structure follows the typical process of producing a research paper, including literature review, paper reading, paper reproduction, idea development, experimental environment setup, paper writing and polishing, figure drawing, research collaboration, paper submission, and new research paradigms under LLM. Contributors come from Shandong University, Zhejiang University, Beijing University of Posts and Telecommunications, Xidian University, and Jiangxi Normal University, with valuable suggestions from many mentors. We express our gratitude to all contributors and welcome further feedback and suggestions from readers.
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@ This guide is collaboratively written by several members of SecureNexusLab. Rese
 - [7. Figure Drawing](./en/7.Paper_Illustration.md)
 - [8. Research Collaboration](./en/8.Research_Collaboration.md)
 - [9. Paper Submission](./en/9.Paper_Submission.md)
+- [10. New Research Paradigms under LLM](./en/10.New_Research_Paradigms_under_LLM.md)
 
 ## Contributors
 
